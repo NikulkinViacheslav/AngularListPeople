@@ -1,0 +1,14 @@
+td {
+  border: 1px solid gray;
+  padding: 5px;
+  text-align: center;
+}
+
+.button-delete {
+  width: 10em;
+  height: 2em;
+  display: inline-block;
+  font: bold 20px solid;
+  color: brown;
+  background-color: gray;
+}
